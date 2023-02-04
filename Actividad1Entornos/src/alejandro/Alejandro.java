@@ -5,6 +5,7 @@ public class Alejandro {
 	public static void main(String[] args) {
 		imprimirNombre();
 		System.out.println("Requerimiento 2 - Alejandro");
+		System.out.println("3 Hobbies: Hacer deporte, leer y escuchar música");
 		
 	}
 

@@ -7,6 +7,7 @@ public class Andres {
 		
 		
 		System.out.println("REQUERIMIENTO 2 - ANDRÉS");
+		System.out.println("Hobbies: leer, teatro y cine");
 
 	}
 	

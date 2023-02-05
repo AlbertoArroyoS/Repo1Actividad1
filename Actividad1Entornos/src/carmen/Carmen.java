@@ -8,6 +8,8 @@ public class Carmen {
 		System.out.println("Requerimiento 2 Carmen");
 		
 		System.out.println("Correr, leer, aprender");
+		
+		System.out.println("Paella, pescado y marisco");
 
 	}
 

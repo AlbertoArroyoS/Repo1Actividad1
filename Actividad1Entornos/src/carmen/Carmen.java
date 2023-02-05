@@ -9,6 +9,7 @@ public class Carmen {
 		
 		System.out.println("Correr, leer, aprender");
 
+		System.out.println("Pizza, Pasta, Arroz");
 	}
 
 	public static void  miNombre() {
